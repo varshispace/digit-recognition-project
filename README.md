@@ -19,7 +19,6 @@ This project uses a Convolutional Neural Network (CNN) to recognize handwritten 
 The model achieved ~98% accuracy on test data.
 
 ## Screenshots
-(Add your images here)
 
 ## How to Run
 1. Open notebook in Google Colab
